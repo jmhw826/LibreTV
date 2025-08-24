@@ -34,6 +34,25 @@ const CUSTOMER_SITES = {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
     },
+    heimuer02: {
+        api: 'https://json02.heimuer.xyz/api.php/provide/vod',
+        name: '黑木耳点播',
+        detail: 'https://json02.heimuer.xyz',
+    },
+    ffzy: {
+        api: 'https://cj.ffzyapi.com/api.php/provide/vod',
+        name: '非凡资源',
+        detail: 'https://cj.ffzyapi.com',
+    },
+    zy360: {
+        api: 'https://360zy.com/api.php/provide/vod',
+        name: '360资源',
+    },
+    caijidb: {
+        api: 'https://caiji.dbzy.tv/api.php/provide/vod',
+        name: '豆瓣资源',
+        detail: 'https://caiji.dbzy.tv',
+    },
     ckzy: {
         api: 'https://www.ckzy1.com/api.php/provide/vod',
         name: 'CK资源',
