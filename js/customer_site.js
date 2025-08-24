@@ -44,7 +44,6 @@ const CUSTOMER_SITES = {
     zy360: {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源',
-        detail: '',
         adult: false
     },
     caijidb: {
@@ -85,7 +84,6 @@ const CUSTOMER_SITES = {
     ckkzy: {
         api: 'https://www.ckzy1.com/api.php/provide/vod',
         name: 'CK资源',
-        detail: '',
         adult: true
     },
     hsckzy: {
@@ -97,61 +95,51 @@ const CUSTOMER_SITES = {
     nnhzy: {
         api: 'https://api.zuidapi.com/api.php/provide/vod',
         name: '牛牛资源',
-        detail: '',
         adult: true
     },
     ywwhzy: {
         api: 'https://155api.com/api.php/provide/vod',
         name: '155黄色资源',
-        detail: '',
         adult: true
     },
     fcpkzy: {
         api: 'https://api.fczy888.me/api.php/provide/vod',
         name: '蜂巢片库',
-        detail: '',
         adult: true
     },
     ddwlzy: {
         api: 'https://dadiapi.com/api.php/provide/vod',
         name: '大地资源网络',
-        detail: '',
         adult: true
     },
     hsazy: {
         api: 'https://hsckzy888.com/api.php/provide/vod',
         name: '黄色资源啊啊',
-        detail: '',
         adult: true
     },
     xjjzy: {
         api: 'https://api.xiaojizy.live/provide/vod',
         name: '小鸡资源',
-        detail: '',
         adult: true
     },
     ljzzy: {
         api: 'https://apilj.com/api.php/provide',
         name: '辣椒资源黄黄',
-        detail: '',
         adult: true
     },
     shszy: {
         api: 'https://api.souavzy.vip/api.php/provide/vod',
         name: '搜av黄色资源',
-        detail: '',
         adult: true
     },
     yzyzy: {
         api: 'https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod',
         name: '优质资源库1080zyk6.com高清',
-        detail: '',
         adult: true
     },
     xmmzy: {
         api: 'https://zy.xmm.hk/api.php/provide/vod',
         name: '小猫咪资源',
-        detail: '',
         adult: true
     },
     jymdzy: {
@@ -169,7 +157,6 @@ const CUSTOMER_SITES = {
     avaizy: {
         api: 'http://lbapiby.com/api.php/provide/vod',
         name: 'AV-AIvin',
-        detail: '',
         adult: true
     },
     jkazy: {
@@ -187,7 +174,6 @@ const CUSTOMER_SITES = {
     lbzy: {
         api: 'https://lbapi9.com/api.php/provide/vod',
         name: 'AV-乐播资源',
-        detail: '',
         adult: true
     },
     oskzy: {
@@ -223,7 +209,6 @@ const CUSTOMER_SITES = {
     fhzy: {
         api: 'http://fhapi9.com/api.php/provide/vod',
         name: 'AV-番号资源',
-        detail: '',
         adult: true
     },
     bpzy: {
