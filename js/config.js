@@ -28,6 +28,12 @@ const API_SITES = {
         detail: 'https://aosikazy.com',
         adult: true
     }
+    kuziyuan: {
+        api: 'https://api.1080zyku.com/inc/api_mac10.php',
+        name: 'TV-1080资源',
+        detail: 'https://api.1080zyku.com',
+        adult: false
+    }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
