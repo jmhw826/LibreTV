@@ -2,6 +2,67 @@ const CUSTOMER_SITES = {
     qiqi: {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源',
+    },
+    iqiyi: {
+        api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
+        name: 'iqiyi资源',
+    },
+    xibaocaiji: {
+        api: 'https://www.xxibaozyw.com/api.php/provide/vod',
+        name: '细胞采集黄色',
+        adult: true,
+    },
+    yingshigongchang: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod/',
+        name: '影视工厂',
+    },
+    fantuanyingshi: {
+        api: 'https://www.fantuan.tv/api.php/provide/vod/',
+        name: '饭团影视',
+    },
+    dyttjh: {
+        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+        name: '电影天堂资源',
+        detail: 'http://caiji.dyttzyapi.com',
+    },
+    heimuer: {
+        api: 'https://json.heimuer.xyz/api.php/provide/vod',
+        name: '黑木耳',
+        detail: 'https://heimuer.tv',
+    },
+    tyyszy: {
+        api: 'https://tyyszy.com/api.php/provide/vod',
+        name: '天涯资源',
+    },
+    ckzy: {
+        api: 'https://www.ckzy1.com/api.php/provide/vod',
+        name: 'CK资源',
+        adult: true,
+    },
+    jkun: {
+        api: 'https://jkunzyapi.com/api.php/provide/vod',
+        name: 'jkun资源',
+        adult: true,
+    },
+    bwzy: {
+        api: 'https://api.bwzym3u8.com/api.php/provide/vod',
+        name: '百万资源',
+        adult: true,
+    },
+    souav: {
+        api: 'https://api.souavzy.vip/api.php/provide/vod',
+        name: 'souav资源',
+        adult: true,
+    },
+    r155: {
+        api: 'https://155api.com/api.php/provide/vod',
+        name: '155资源',
+        adult: true,
+    },
+    lsp: {
+        api: 'https://apilsbzy1.com/api.php/provide/vod',
+        name: 'lsb资源',
+        adult: true,
     }
 };
 
