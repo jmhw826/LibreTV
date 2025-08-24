@@ -34,6 +34,45 @@ const CUSTOMER_SITES = {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
     },
+    heimuer02: {
+        api: 'https://json02.heimuer.xyz/api.php/provide/vod',
+        name: '黑木耳点播',
+        detail: 'https://json02.heimuer.xyz',
+    },
+    ffzy: {
+        api: 'https://cj.ffzyapi.com/api.php/provide/vod',
+        name: '非凡资源',
+        detail: 'https://cj.ffzyapi.com',
+    },
+    zy360: {
+        api: 'https://360zy.com/api.php/provide/vod',
+        name: '360资源',
+    },
+    caijidb: {
+        api: 'https://caiji.dbzy.tv/api.php/provide/vod',
+        name: '豆瓣资源',
+        detail: 'https://caiji.dbzy.tv',
+    },
+    jisu: {
+        api: 'https://jszyapi.com/api.php/provide/vod',
+        name: '极速资源',
+        detail: 'https://jszyapi.com',
+    },
+   1080zyku: {
+        api: 'https://api.1080zyku.com/inc/api_mac10.php',
+        name: '1080资源库',
+        detail: 'https://api.1080zyku.com',
+    },
+    ukuapi88: {
+        api: 'https://api.ukuapi88.com/api.php/provide/vod',
+        name: 'U酷88资源',
+        detail: 'https://api.ukuapi88.com',
+    },
+    xinlang: {
+        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
+        name: '新浪点播',
+        detail: 'https://api.xinlangapi.com',
+    },
     ckzy: {
         api: 'https://www.ckzy1.com/api.php/provide/vod',
         name: 'CK资源',
