@@ -63,6 +63,18 @@ const CUSTOMER_SITES = {
         api: 'https://apilsbzy1.com/api.php/provide/vod',
         name: 'lsb资源',
         adult: true,
+    },
+    hav: {
+        api: 'https://www.pgxdy.com/api/json.php',
+        name: 'AV-黄AV资源',
+        detail: 'https://www.pgxdy.com',
+        adult: true,
+    },
+    avsy: {
+       api: 'https://shayuapi.com/api.php/provide/vod',
+        name: 'AV-鲨鱼资源',
+        detail: 'https://shayuapi.com',
+        adult: true,
     }
 };
 
