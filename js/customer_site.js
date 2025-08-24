@@ -18,6 +18,20 @@ const CUSTOMER_SITES = {
     fantuanyingshi: {
         api: 'https://www.fantuan.tv/api.php/provide/vod/',
         name: '饭团影视',
+    },
+    dyttjh: {
+        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+        name: '电影天堂资源',
+        detail: 'http://caiji.dyttzyapi.com',
+    },
+    heimuer: {
+        api: 'https://json.heimuer.xyz/api.php/provide/vod',
+        name: '黑木耳',
+        detail: 'https://heimuer.tv',
+    },
+    tyyszy: {
+        api: 'https://tyyszy.com/api.php/provide/vod',
+        name: '天涯资源',
     }
 };
 
