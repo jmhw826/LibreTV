@@ -7,6 +7,11 @@ const CUSTOMER_SITES = {
         api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
         name: 'iqiyi资源',
     },
+    xibaocaiji: {
+        api: 'https://www.xxibaozyw.com/api.php/provide/vod',
+        name: '细胞采集黄色',
+        adult: true,
+    },
     yingshigongchang: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '影视工厂',
@@ -33,57 +38,69 @@ const CUSTOMER_SITES = {
         api: 'https://json02.heimuer.xyz/api.php/provide/vod',
         name: '黑木耳点播',
         detail: 'https://json02.heimuer.xyz',
-        adult: false,
     },
     ffzy: {
         api: 'https://cj.ffzyapi.com/api.php/provide/vod',
         name: '非凡资源',
         detail: 'https://cj.ffzyapi.com',
-        adult: false,
     },
     zy360: {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源',
-        adult: false,
     },
     caijidb: {
         api: 'https://caiji.dbzy.tv/api.php/provide/vod',
         name: '豆瓣资源',
         detail: 'https://caiji.dbzy.tv',
-        adult: false,
     },
     jisu: {
         api: 'https://jszyapi.com/api.php/provide/vod',
         name: '极速资源',
         detail: 'https://jszyapi.com',
-        adult: false,
     },
    1080zyku: {
         api: 'https://api.1080zyku.com/inc/api_mac10.php',
         name: '1080资源库',
         detail: 'https://api.1080zyku.com',
-        adult: false,
     },
     ukuapi88: {
         api: 'https://api.ukuapi88.com/api.php/provide/vod',
         name: 'U酷88资源',
         detail: 'https://api.ukuapi88.com',
-        adult: false,
     },
     xinlang: {
         api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
         name: '新浪点播',
         detail: 'https://api.xinlangapi.com',
-        adult: false,
     },
-    xibaocaiji: {
-        api: 'https://www.xxibaozyw.com/api.php/provide/vod',
-        name: '细胞采集黄色',
-        adult: true,
-    },
-    ckkzy: {
+    ckzy: {
         api: 'https://www.ckzy1.com/api.php/provide/vod',
         name: 'CK资源',
+        adult: true,
+    },
+    jkun: {
+        api: 'https://jkunzyapi.com/api.php/provide/vod',
+        name: 'jkun资源',
+        adult: true,
+    },
+    bwzy: {
+        api: 'https://api.bwzym3u8.com/api.php/provide/vod',
+        name: '百万资源',
+        adult: true,
+    },
+    souav: {
+        api: 'https://api.souavzy.vip/api.php/provide/vod',
+        name: 'souav资源',
+        adult: true,
+    },
+    r155: {
+        api: 'https://155api.com/api.php/provide/vod',
+        name: '155资源',
+        adult: true,
+    },
+    lsp: {
+        api: 'https://apilsbzy1.com/api.php/provide/vod',
+        name: 'lsb资源',
         adult: true,
     },
     hsckzy: {
@@ -115,7 +132,7 @@ const CUSTOMER_SITES = {
     hsazy: {
         api: 'https://hsckzy888.com/api.php/provide/vod',
         name: '黄色资源啊啊',
-        adult: true,
+        adult: true
     },
     xjjzy: {
         api: 'https://api.xiaojizy.live/provide/vod',
@@ -214,7 +231,7 @@ const CUSTOMER_SITES = {
     bpzy: {
         api: 'https://www.kxgav.com/api/json.php',
         name: 'AV-白嫖资源',
-        detail: 'https://www.kxgav.com',
+        detail: 'htts://www.kxgav.com',
         adult: true,
     },
     jpzy: {
@@ -257,36 +274,6 @@ const CUSTOMER_SITES = {
         api: 'https://www.gdlsp.com/api/json.php',
         name: 'AV-香奶儿资源',
         detail: 'https://www.gdlsp.com',
-        adult: true,
-    },
-    ckzy: {
-        api: 'https://www.ckzy1.com/api.php/provide/vod',
-        name: 'CK资源',
-        adult: true,
-    },
-    jkun: {
-        api: 'https://jkunzyapi.com/api.php/provide/vod',
-        name: 'jkun资源',
-        adult: true,
-    },
-    bwzy: {
-        api: 'https://api.bwzym3u8.com/api.php/provide/vod',
-        name: '百万资源',
-        adult: true,
-    },
-    souav: {
-        api: 'https://api.souavzy.vip/api.php/provide/vod',
-        name: 'souav资源',
-        adult: true,
-    },
-    r155: {
-        api: 'https://155api.com/api.php/provide/vod',
-        name: '155资源',
-        adult: true,
-    },
-    lsp: {
-        api: 'https://apilsbzy1.com/api.php/provide/vod',
-        name: 'lsb资源',
         adult: true,
     },
     hav: {
