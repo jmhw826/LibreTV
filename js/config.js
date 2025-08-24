@@ -36,8 +36,8 @@ function extendAPISites(newSites) {
 }
 
 // 暴露到全局
-window。API_SITES = API_SITES;
-window。extendAPISites = extendAPISites;
+window.API_SITES = API_SITES;
+window.extendAPISites = extendAPISites;
 
 
 // 添加聚合搜索的配置选项
