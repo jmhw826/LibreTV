@@ -10,6 +10,7 @@ const CUSTOMER_SITES = {
     xibaocaiji: {
         api: 'https://www.xxibaozyw.com/api.php/provide/vod',
         name: '细胞采集黄色',
+        adult: true,
     },
     yingshigongchang: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
