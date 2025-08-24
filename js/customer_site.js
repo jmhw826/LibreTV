@@ -58,7 +58,7 @@ const CUSTOMER_SITES = {
         name: '极速资源',
         detail: 'https://jszyapi.com',
     },
-   ylzyku: {
+    ylzyku: {
         api: 'https://api.1080zyku.com/inc/api_mac10.php',
         name: '1080资源库',
         detail: 'https://api.1080zyku.com',
