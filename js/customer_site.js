@@ -10,7 +10,7 @@ const CUSTOMER_SITES = {
     xibaocaiji: {
         api: 'https://www.xxibaozyw.com/api.php/provide/vod',
         name: '细胞采集黄色',
-        adult: true,
+        adult: true
     },
     yingshigongchang: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
@@ -37,32 +37,44 @@ const CUSTOMER_SITES = {
     ckzy: {
         api: 'https://www.ckzy1.com/api.php/provide/vod',
         name: 'CK资源',
-        adult: true,
+        adult: true
     },
     jkun: {
         api: 'https://jkunzyapi.com/api.php/provide/vod',
         name: 'jkun资源',
-        adult: true,
+        adult: true
     },
     bwzy: {
         api: 'https://api.bwzym3u8.com/api.php/provide/vod',
         name: '百万资源',
-        adult: true,
+        adult: true
     },
     souav: {
         api: 'https://api.souavzy.vip/api.php/provide/vod',
         name: 'souav资源',
-        adult: true,
+        adult: true
     },
     r155: {
         api: 'https://155api.com/api.php/provide/vod',
         name: '155资源',
-        adult: true,
+        adult: true
     },
     lsp: {
         api: 'https://apilsbzy1.com/api.php/provide/vod',
         name: 'lsb资源',
-        adult: true,
+        adult: true
+    },
+    hav: {
+        api: 'https://www.pgxdy.com/api/json.php',
+        name: 'AV-黄AV资源',
+        detail: 'https://www.pgxdy.com',
+        adult: true
+    },
+    avsy: {
+       api: 'https://shayuapi.com/api.php/provide/vod',
+        name: 'AV-鲨鱼资源',
+        detail: 'https://shayuapi.com',
+        adult: true
     }
 };
 
