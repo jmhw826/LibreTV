@@ -39,6 +39,11 @@ const CUSTOMER_SITES = {
         name: '黑木耳点播',
         detail: 'https://json02.heimuer.xyz',
     },
+    wldbzy: {
+        api: 'https://collect.wolongzyw.com/api.php/provide/vod',
+        name: 'TV-卧龙点播',
+        detail: 'https://collect.wolongzyw.com',
+    },
     ffzy: {
         api: 'https://cj.ffzyapi.com/api.php/provide/vod',
         name: '非凡资源',
