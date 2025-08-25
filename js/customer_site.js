@@ -34,6 +34,20 @@ const CUSTOMER_SITES = {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
     },
+    tryzy: {
+        api: 'https://cj.rycjapi.com/api.php/provide/vod',
+        name: 'TV-如意资源',
+    },
+    yvsmy: {
+        api: 'https://api.1080zyku.com/inc/apijson.php/',
+        name: 'TV-神马云',
+        detail: 'https://api.1080zyku.com',
+    },
+    tvmtzy: {
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
+        name: 'TV-茅台资源',
+        detail: 'https://caiji.maotaizy.cc',
+    },
     heimuer02: {
         api: 'https://json02.heimuer.xyz/api.php/provide/vod',
         name: '黑木耳点播',
