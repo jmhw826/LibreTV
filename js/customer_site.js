@@ -82,6 +82,20 @@ const CUSTOMER_SITES = {
         name: 'U酷88资源',
         detail: 'https://api.ukuapi88.com',
     },
+    wldbzy: {
+        api: 'https://collect.wolongzyw.com/api.php/provide/vod',
+        name: 'TV-卧龙点播',
+        detail: 'https://collect.wolongzyw.com',
+    },
+    twlzyw: {
+        api: 'https://collect.wolongzy.cc/api.php/provide/vod',
+        name: 'TV-卧龙资源',
+    },
+    tvwlzy: {
+        api: 'https://wolongzyw.com/api.php/provide/vod',
+        name: 'TV-卧龙资源',
+        detail: 'https://wolongzyw.com',
+    },
     xinlang: {
         api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
         name: '新浪点播',
