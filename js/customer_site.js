@@ -30,6 +30,16 @@ const CUSTOMER_SITES = {
         name: '黑木耳',
         detail: 'https://heimuer.tv',
     },
+    lzzyb: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: '量子资源',
+        detail: 'https://cj.lziapi.com/api.php/provide/vod',
+    },
+    bdzyb: {
+        api: 'https://api.apibdzy.com/api.php/provide/vod',
+        name: '百度资源',
+        detail: 'https://api.apibdzy.com/api.php/provide/vod',
+    },
     tyyszy: {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
